@@ -4,3 +4,5 @@ Alumno: Felipe Gómez Patiño
 
 Profesor: Henry Andrade 
 
+La programación es una fascinante disciplina que permite dar vida a las máquinas y hacer que realicen tareas complejas y sofisticadas. En esencia, es el arte de comunicarse con los ordenadores y guiarlos a través de instrucciones precisas para alcanzar un objetivo deseado. Es una habilidad que ha revolucionado la forma en que vivimos, trabajamos y nos comunicamos.
+
